@@ -1,3 +1,5 @@
+![banner](https://github.com/pyMBE-dev/pyMBE/logo/banner.png)
+
 # pyMBE: the Python-based Molecule Builder for ESPResSo 
 
 ![GitHub Actions](https://github.com/pyMBE-dev/pyMBE/actions/workflows/testsuite.yml/badge.svg)
