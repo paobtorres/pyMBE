@@ -1,4 +1,4 @@
-![banner](https://github.com/pyMBE-dev/pyMBE/logo/banner.png)
+![banner](https://github.com/paobtorres/pyMBE/blob/change-logo/logo/banner.png)
 
 # pyMBE: the Python-based Molecule Builder for ESPResSo 
 
